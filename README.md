@@ -31,7 +31,7 @@ from kavy.core.kavy import Kavy
 open_ai_api_key = ""
 
 # Initialize Kavy
-Kavy_instance = Kavy(open_ai_api_key)
+kavy_instance = Kavy(open_ai_api_key)
 
 # Train the model on custom data
 kavy_instance.train_on_pdf('path/to/pdf/file.pdf')
