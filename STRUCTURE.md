@@ -1,10 +1,10 @@
-Kavy/
+Kanao/
 |-- 📁 config.ini<br/>
-|-- 📁 kavy/<br/>
+|-- 📁 kanao/<br/>
 |   |-- 📄 __init__.py<br/>
 |   |-- 📁 core/<br/>
 |   |   |-- 📄 __init__.py<br/>
-|   |   |-- 📄 chatbot.py<br/>
+|   |   |-- 📄 kanao.py<br/>
 |   |-- 📁 modules/<br/>
 |   |   |-- 📄 __init__.py<br/>
 |   |   |-- 📄 pdf_module.py<br/>

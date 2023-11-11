@@ -1,6 +1,6 @@
-# Contributing to Kavy
+# Contributing to Kanao
 
-Welcome to Kavy! We appreciate your interest in contributing.
+Welcome to Kanao! We appreciate your interest in contributing.
 
 ## Code of Conduct
 

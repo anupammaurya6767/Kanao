@@ -1,13 +1,13 @@
 Installation
 =============
 
-To install Kavy, follow these steps:
+To install Kanao, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/kavy.git
-   cd kavy
+   git clone https://github.com/your-username/Kanao.git
+   cd Kanao
    ```
 
 2. Create a virtual environment:
@@ -36,10 +36,10 @@ To install Kavy, follow these steps:
    pip install -r requirements.txt
    ```
 
-5. Run Kavy:
+5. Run Kanao:
 
    ```bash
    python your_main_script.py
    ```
 
-Replace `your_main_script.py` with the actual script that runs your Kavy project.
+Replace `your_main_script.py` with the actual script that runs your Kanao project.

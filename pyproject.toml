@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "kavy"
-version = "1.0.3"
-description = "Kavy is a project designed to train a GPT (Generative Pre-trained Transformer) model on custom datasets. It provides the capability to train the model using various data sources, including PDFs, Word documents, plain text files, and URLs."
+name = "kanao"
+version = "1.0.0"
+description = "Kanao is a project designed to train a GPT (Generative Pre-trained Transformer) model on custom datasets. It provides the capability to train the model using various data sources, including PDFs, Word documents, plain text files, and URLs."
 authors = ["Anupam Maurya <anupammaurya981@gmail.com>"]
 readme = "README.md"
 license = "MIT"

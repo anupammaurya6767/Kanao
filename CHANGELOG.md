@@ -10,5 +10,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.3] - 2023-11-11
 - Initial release
 
-[Unreleased]: https://github.com/anupammaurya6767/kavy/compare/v1.0.3...HEAD
-[1.0.3]: https://github.com/anupammaurya6767/kavy/releases/tag/v1.0.3
+[Unreleased]: https://github.com/anupammaurya6767/Kanao/compare/v1.0.3...HEAD
+[1.0.3]: https://github.com/anupammaurya6767/Kanao/releases/tag/v1.0.3
