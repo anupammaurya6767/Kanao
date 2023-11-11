@@ -17,7 +17,7 @@ To get started with Kanao, follow the installation instructions and examples in 
 ## Installation
 
 ```bash
-pip install Kanao
+pip install kanao
 ```
 
 ## Usage
