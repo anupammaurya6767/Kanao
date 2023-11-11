@@ -16,7 +16,7 @@ Kavy is a project designed to train a GPT (Generative Pre-trained Transformer) m
 
 ## Getting Started
 
-To get started with Kavy, follow the installation instructions and examples in the [documentation](link-to-documentation).
+To get started with Kavy, follow the installation instructions and examples in the [documentation](https://kavy-documentation.vercel.app/).
 
 ## Installation
 
@@ -40,7 +40,7 @@ kavy_instance.train_on_pdf('path/to/pdf/file.pdf')
 response_txt = kavy_instance.generate_response("What is in the document?")
 ```
 
-For more detailed usage, refer to the [documentation](link-to-documentation).
+For more detailed usage, refer to the [documentation](https://kavy-documentation.vercel.app/).
 
 ## Contribution
 
