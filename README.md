@@ -21,7 +21,7 @@ To get started with Kavy, follow the installation instructions and examples in t
 ## Installation
 
 ```bash
-pip install Kavy
+pip install kavy
 ```
 
 ## Usage
