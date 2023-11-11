@@ -12,7 +12,7 @@ Kanao is a project designed to train a GPT (Generative Pre-trained Transformer) 
 
 ## Getting Started
 
-To get started with Kanao, follow the installation instructions and examples in the [documentation](https://kanao-documentation.vercel.app/).
+To get started with Kanao, follow the installation instructions and examples in the [documentation](https://kanao.vercel.app/).
 
 ## Installation
 
@@ -36,7 +36,7 @@ kanao_instance.train_on_pdf('path/to/pdf/file.pdf')
 response_txt = kanao_instance.generate_response("What is in the document?")
 ```
 
-For more detailed usage, refer to the [documentation](https://kanao-documentation.vercel.app/).
+For more detailed usage, refer to the [documentation](https://kanao.vercel.app/).
 
 ## Contribution
 
